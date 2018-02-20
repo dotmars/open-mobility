@@ -1,0 +1,11 @@
+stop_id,stop_name,stop_desc,stop_lat,stop_lon,location_type
+S01,Windsor,,42.324966,-83.007179,1,
+S02,London,,42.981506,-81.247084,1,
+S03,Kitchener-Waterloo,,43.455635,-80.493136,1,
+S04,Pearson Airport,,43.678123,-79.624995,1,
+S05,Toronto Union,,43.645268, -79.380537,1,
+S06,Toronto East Harbour Transit Hub,,43.656494,-79.345338,1,
+S07,Kingston,,44.257619,-76.536476,1,
+S08,Ottawa,,45.416327,-75.651603,1,
+S09,Montreal,,45.499983,-73.566643,1,
+S10,Quebec,,46.817582,-71.214163,1,

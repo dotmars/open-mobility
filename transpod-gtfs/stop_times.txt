@@ -1,0 +1,5 @@
+trip_id,arrival_time,departure_time,stop_id,stop_sequence
+ONQCE1,05:00:00,05:05:00,S06,1
+ONQCE1,05:45:00,05:50:00,S09,2
+ONQCE2,05:00:00,05:00:00,S09,1
+ONQCE2,05:00:00,05:00:00,S06,2

@@ -1,0 +1,5 @@
+route_id,service_id,trip_id,trip_headsign,direction_id
+ONQC,WE,ONQCE1,Eastbound,1
+ONQC,WE,ONQCE2,Westbound,1
+ONQC,WD,ONQCE1,Eastbound,2
+ONQC,WD,ONQCE2,Westbound,2
