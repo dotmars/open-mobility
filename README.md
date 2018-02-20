@@ -2,7 +2,7 @@
 
 Innovations in transportation are changing the way riders interact with transit systems. Emerging technologies such as self driving vehicles (to get you around within a city) and tube transport like the hyperloop and TransPod system (to link together metropolitan areas) will have an impact to reduce the burden of transportation access away from riders and to the service providers.
 
-Discussion about the future of transportation often revolve around the technology itself - but the evolution will happen at all levels to effect the transportation ecosystem's infrastructure, value chain, energy consumption, finance, purchasing model, and end user-experience.
+Discussion about the future of transportation often revolve around the technology itself - but the evolution will happen at all levels to affect the transportation ecosystem's infrastructure, value chain, energy consumption, finance, purchasing model, and end user-experience.
 
 The increasing prevalence of ridesharing for vehicles and bikes is bringing about the shift from individual ownership of transportation (driving your own car) to being the user of a serviced mobility fleet (hailing a self driving vehicle for a ride). This shift acts as a catalyst for private organizations to offer traditionally public transportation solutions through infrastructure at a reasonable price and access to end consumers.
 
