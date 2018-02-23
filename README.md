@@ -21,3 +21,7 @@ The **TransPod Open Mobility Initiative (TOMI)** aims to set the precedent for u
 At this moment history we have the opportunity to build out a *free (libre) and open source solution* to managing user interactions with transportation systems that will prioritize privacy, self-ownership of data and liberation from third parties to track your geolocation on every trip. To take ownership and get it right the first time in a manner to provide freedom to users is the driving force behind the development of this novel technology.
 
 Proprietary software has dominated the enterprise and government space for decades. As software continues to "eat the world" and permeate into more facets of life we can make a difference to guide it in a manner to not give up the privacy and freedom of transit riders.
+
+## The Challenge
+
+Build out a mobile experience to model a trip between Toronto to Montreal via the TransPod system and integrate other modes of transportation such as bikeshare, subway, streetcar, taxi and ridesharing services. You can use IOT or a similar physical interface like NFC to demonstrate the ticketing and customer transition along various steps of the trip, but it is not necessary. You have to demonstrate how the rider data and payment information can be sent to existing private and public transportation providers such as through a new API.
