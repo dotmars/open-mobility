@@ -24,4 +24,6 @@ Proprietary software has dominated the enterprise and government space for decad
 
 ## The Challenge
 
-Build out a mobile experience to model a trip between Toronto to Montreal via the TransPod system and integrate other modes of transportation such as bikeshare, subway, streetcar, taxi and ridesharing services. You can use IOT or a similar physical interface like NFC to demonstrate the ticketing and customer transition along various steps of the trip, but it is not necessary. You have to demonstrate how the rider data and payment information can be sent to existing private and public transportation providers such as through a new API.
+Build out a mobile experience to model a trip on the TransPod system between Toronto to Montreal via the TransPod system and integrate other modes of transportation such as bikeshare, subway, streetcar, taxi and ridesharing services. You can use IOT or a similar physical interface like NFC to demonstrate the ticketing and customer transition along various steps of the trip, but it is not necessary.
+
+You have to demonstrate how the rider data and payment information can be sent to existing private and public transportation providers such as through a new API.
